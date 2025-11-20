@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Shehab Uddin</h1>
-<h1 align="center">- 👋 Hi, I’m @shehabuddin380</h1>
-<h1 align="center">- 👀 I’m interested in ...</h1>
-<h1 align="center">- 🌱 I’m currently learning ...</h1>
-<h1 align="center">- 💞️ I’m looking to collaborate on ...</h1>
-<h1 align="center">- 📫 How to reach me ...</h1>
+<h3 align="center">👀 I’m interested in ...</h3>
+<h3 align="center">🌱 I’m currently learning ...</h3>
+<h3 align="center">💞️ I’m looking to collaborate on ...</h3>
+<h3 align="center">📫 How to reach me ...</h3>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehabuddin380&label=Profile%20views&color=0e75b6&style=flat" alt="shehabuddin380" /> </p>
@@ -41,8 +40,3 @@
 shehabuddin380/shehabuddin380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
