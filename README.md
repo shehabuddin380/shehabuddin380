@@ -12,16 +12,50 @@
 
 # 💫 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/>
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-### 👨‍💻 Who Am I?
+## 👋 Hi, I'm Shehab Uddin
 
-- 🚀 Full Stack Developer from Bangladesh 🇧🇩
+💻 A passionate **Full Stack Developer** from Bangladesh 🇧🇩
+
+I enjoy building modern, responsive, and user-friendly web applications.  
+My main focus is creating scalable full-stack projects using modern technologies and clean UI design.
+
+---
+
+### 🚀 What I'm Doing
+
 - 🌱 Currently learning **Advanced Django & Next.js**
-- 💻 Passionate about modern web development
-- 🔥 Love creating clean UI & scalable backend
-- 🤝 Open to collaboration on real-world projects
-- ⚡ Fun fact: *Lazy but smart 😎*
+- ⚛️ Building modern web applications with **React**
+- 🔥 Exploring scalable backend architecture
+- 🎯 Improving problem-solving & development skills
+- 🤝 Open to collaborating on exciting projects
+
+---
+
+### 🧠 Developer Mindset
+
+- 💡 Love solving real-world problems with code
+- 🎨 Interested in clean UI/UX design
+- ⚡ Fast learner & self-motivated developer
+- 🚀 Always trying to improve and grow
+
+---
+
+### 🛠️ Tech Interests
+
+- Frontend Development
+- Backend Development
+- REST API Development
+- Authentication Systems
+- Responsive UI Design
+- Full Stack Web Applications
+
+---
+
+### ⚡ Fun Fact
+
+> "Lazy but smart 😎"
 
 <br>
 
@@ -96,16 +130,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=shehabuddin380&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shehabuddin380&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
