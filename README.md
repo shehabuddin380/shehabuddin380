@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Shehab+Uddin;Full+Stack+Developer+from+Bangladesh;React+%7C+Django+%7C+Next.js+Developer;Building+Modern+Web+Experiences+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Shehab+Uddin;Backend+Developer+from+Bangladesh;Django+%7C+REST+API+Developer;Building+Scalable+Web+Backends+🚀" />
 
 <br>
 
@@ -16,46 +16,45 @@
 
 ## 👋 Hi, I'm Shehab Uddin
 
-💻 A passionate **Full Stack Developer** from Bangladesh 🇧🇩
+💻 A passionate **Backend Developer** from Bangladesh 🇧🇩
 
-I enjoy building modern, responsive, and user-friendly web applications.  
-My main focus is creating scalable full-stack projects using modern technologies and clean UI design.
+I specialize in building powerful, secure, and scalable backend systems using Django.  
+I enjoy creating REST APIs, authentication systems, and database-driven web applications.
 
 ---
 
 ### 🚀 What I'm Doing
 
-- 🌱 Currently learning **Advanced Django & Next.js**
-- ⚛️ Building modern web applications with **React**
-- 🔥 Exploring scalable backend architecture
-- 🎯 Improving problem-solving & development skills
-- 🤝 Open to collaborating on exciting projects
+- 🌱 Currently learning **Advanced Django & REST Framework**
+- ⚙️ Building backend systems with **Django**
+- 🔥 Developing RESTful APIs for web applications
+- 🗄️ Working with databases and server-side logic
+- 🤝 Open to collaborating on backend-focused projects
 
 ---
 
 ### 🧠 Developer Mindset
 
-- 💡 Love solving real-world problems with code
-- 🎨 Interested in clean UI/UX design
-- ⚡ Fast learner & self-motivated developer
-- 🚀 Always trying to improve and grow
+- 💡 Love solving backend logic problems
+- ⚙️ Focused on clean and scalable architecture
+- 🚀 Always improving coding skills
+- 🔐 Interested in authentication & security systems
 
 ---
 
 ### 🛠️ Tech Interests
 
-- Frontend Development
 - Backend Development
 - REST API Development
-- Authentication Systems
-- Responsive UI Design
-- Full Stack Web Applications
+- Authentication & Authorization
+- Database Design
+- Server-side Architecture
 
 ---
 
 ### ⚡ Fun Fact
 
-> "Lazy but smart 😎"
+> "I enjoy breaking problems and fixing them with Django 😎"
 
 <br>
 
@@ -77,10 +76,6 @@ My main focus is creating scalable full-stack projects using modern technologies
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/shehabuddin380">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
 <a href="mailto:shehabuddin380@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -93,21 +88,17 @@ My main focus is creating scalable full-stack projects using modern technologies
 
 <div align="center">
 
-### 🚀 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
-
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,php,firebase" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,php,firebase" />
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
 </div>
 
@@ -141,10 +132,10 @@ My main focus is creating scalable full-stack projects using modern technologies
 
 | Project | Description |
 |---|---|
-| 🏨 Hotel Booking Website | Full Stack Hotel Reservation Platform |
-| 🔐 Authentication System | JWT Authentication System |
-| 🌐 Portfolio Website | Modern Responsive Portfolio |
-| 📱 React UI Projects | Interactive Frontend Applications |
+| 🏨 Hotel Booking API | Django REST API for hotel reservation system |
+| 🔐 Authentication System | JWT-based login & signup system |
+| 🌐 Portfolio Backend | Backend support for portfolio website |
+| 📱 API Projects | RESTful API development practice projects |
 
 </div>
 
@@ -184,23 +175,11 @@ My main focus is creating scalable full-stack projects using modern technologies
 
 ## 💡 Developer Mindset
 
-```javascript
-const shehab = {
-  code: ["JavaScript", "Python", "PHP"],
-  frontend: ["React", "Next.js", "Bootstrap"],
-  backend: ["Django", "Node.js"],
-  database: ["MySQL", "MongoDB"],
-  tools: ["Git", "Figma", "VS Code"],
-  challenge: "Building scalable full-stack applications"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ “First, solve the problem. Then, write the code.”
-
-</div>
+```python
+shehab = {
+  "code": ["Python"],
+  "backend": ["Django", "Django REST Framework"],
+  "database": ["MySQL", "MongoDB"],
+  "tools": ["Git", "Postman", "VS Code"],
+  "focus": "Building scalable backend systems"
+}
