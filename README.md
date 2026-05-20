@@ -16,7 +16,7 @@
 
 ## 👋 Hi, I'm Shehab Uddin
 
-💻 A passionate **Backend Developer** from Bangladesh 🇧🇩
+💻 A passionate **Backend Developer** from Bangladesh
 
 I specialize in building powerful, secure, and scalable backend systems using Django.  
 I enjoy creating REST APIs, authentication systems, and database-driven web applications.
@@ -78,6 +78,10 @@ I enjoy creating REST APIs, authentication systems, and database-driven web appl
 
 <a href="mailto:shehabuddin380@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/shehab/1284949186479132734">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
